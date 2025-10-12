@@ -32,8 +32,9 @@
 
 ```
 3. Execute o script: python main.py
+```
 
-
+```
 SAÍDA ESPERADA:
 
 Sucesso! Status: 200
