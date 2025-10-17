@@ -3,7 +3,7 @@
 > Projeto em Python.  
 
 ***<p align="center">*** 
-***Este mini projeto consulta a API do Google usando o método GET do protocolo HTTP para acessar o status code da URl, usando TRY e EXCEPT para tratamento de exceções.***  
+Este mini projeto consulta a API do Google usando o método GET do protocolo HTTP para acessar o status code da URl, usando TRY e EXCEPT para tratamento de exceções. 
 
 ***</p>*** 
 
