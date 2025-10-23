@@ -1,4 +1,4 @@
-***<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP</h2>***
+***<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP.</h2>***
 
 > Projeto em Python.  
 
