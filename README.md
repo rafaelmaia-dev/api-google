@@ -4,7 +4,7 @@
 
 **<p align="center">**
 **Este mini projeto consulta a API do Google usando o método GET do protocolo HTTP para acessar o status code da URL, usando TRY e EXCEPT para tratamento de exceções.
-Bibliotecas como ```requests``` que facilita a comunicação de protocolos HTTPS e consumir APIs e a ```os``` é um módulo built-in do Python que fornece uma interface para interagir com o Sistema Operacional.**
+Bibliotecas como ```requests``` que facilitam a comunicação de protocolos HTTPS e consumir APIs e a ```os``` é um módulo built-in do Python que fornece uma interface para interagir com o Sistema Operacional.**
 
 **</p>**
 
