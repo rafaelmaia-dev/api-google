@@ -49,4 +49,3 @@ Página salva em files/page.html
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
->>>>>>> d7a7ab7a74d196bfd35a802c3b1af7756a8edd96
