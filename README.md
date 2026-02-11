@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-### 📄 License  
-
-Este projeto está sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 =======
 **<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP</h2>**
 
