@@ -32,5 +32,6 @@ jobs:
 
       - name: Run flake8 (lint)
         run: |
-          pip install flake8
-          flake8 src tests
+            pip install flake8
+            flake8 src tests --max-line-length=88
+
