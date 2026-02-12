@@ -33,7 +33,7 @@ Bibliotecas como ```requests``` que facilitam a comunicação de protocolos HTTP
 ```
 
 ```
-3. Execute o script: python main.py
+3. Execute o script: python src/main.py
 ```
 
 ```
@@ -42,6 +42,31 @@ SAÍDA ESPERADA:
 Sucesso! Status: 200
 Conteúdo (primeiros 100 chars): <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="pt-BR"><head><meta cont
 Página salva em files/page.html
+```
+
+**🛠️ Teste automatizado:**
+
+```
+1. Para rodar todos os testes:
+
+pytest
+```
+
+```
+2. Ou para rodar o teste principal:
+
+pytest tests/test_main.py
+```
+
+```
+SAÍDA ESPERADA:
+
+================= test session starts =================
+collected 1 item
+
+tests/test_main.py .                                [100%]
+
+================= 1 passed in 0.10s ==================
 ```
 
 
