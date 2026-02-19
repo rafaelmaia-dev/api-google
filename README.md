@@ -4,7 +4,7 @@
 **<h2>API Google</h2>**
 
 <!-- Badges -->
-![Build](https://img.shields.io/github/actions/workflow/status/rafaelmaia-dev/api-google/python-app.yml?branch=main)
+![Build](https://img.shields.io/github/actions/workflow/status/rafaelmaia-dev/api-google/python.yml?branch=main)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
 
