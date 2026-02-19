@@ -6,7 +6,7 @@
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
-![CI](https://github.com/rafaelmaia-dev/api_google/actions/workflows/python.yml/badge.svg)
+[![CI](https://github.com/rafaelmaia-dev/api_google/actions/workflows/python.yml/badge.svg?branch=main)](https://github.com/rafaelmaia-dev/api_google/actions/workflows/python.yml)
 
 Uma requisição através de uma API no site do google, usando o método GET do protocolo HTTP.
 
