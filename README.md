@@ -1,6 +1,15 @@
 
 **<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP</h2>**
 
+**# API Google**
+
+<!-- Badges -->
+![Build](https://img.shields.io/github/actions/workflow/status/rafaelmaia-dev/api-google/python-app.yml?branch=main)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
+
+Uma requisição através de uma API no site do google, usando o método GET do protocolo HTTP.
+
 > Projeto em Python.  
 
 **<p align="center">**
