@@ -1,7 +1,7 @@
 
 **<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP</h2>**
 
-**<h2API Google </h2>**
+**<h2 API Google </h2>**
 
 <!-- Badges -->
 ![Build](https://img.shields.io/github/actions/workflow/status/rafaelmaia-dev/api-google/python-app.yml?branch=main)
