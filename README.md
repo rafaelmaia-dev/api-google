@@ -6,7 +6,7 @@
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
-![Python CI](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml/badge.svg?branch=main)
+[![Python CI](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml/badge.svg)](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml)
 
 
 > Projeto em Python.  
