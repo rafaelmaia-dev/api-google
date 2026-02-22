@@ -8,7 +8,6 @@
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
 ![Python CI](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml/badge.svg?branch=main)
 
-**Uma requisição através de uma API no site do google, usando o método GET do protocolo HTTP.**
 
 > Projeto em Python.  
 
