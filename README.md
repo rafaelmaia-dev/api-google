@@ -1,84 +1,116 @@
+## 🌐 Requisição via API usando o método GET do protocolo HTTP
 
-**<h2 align="center">🌐 Requisição via API usando o método GET do protocolo HTTP</h2>**
-
-**<h2>API Google</h2>**
+## API Google
 
 <!-- Badges -->
-![Python](https://img.shields.io/badge/python-3.x-blue)
+![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
 [![Python CI](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml/badge.svg)](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml)
 
-
-> Projeto em Python.  
-
-**<p align="center">**
-**Este mini projeto consulta a API do Google usando o método GET do protocolo HTTP para acessar o status code da URL, usando TRY e EXCEPT para tratamento de exceções.
-Bibliotecas como ```requests``` que facilitam a comunicação de protocolos HTTPS e consumir APIs e a ```os``` é um módulo built-in do Python que fornece uma interface para interagir com o Sistema Operacional.**
-
-**</p>**
+> Este mini projeto consulta o Google usando o método GET do protocolo HTTP para acessar o status code da URL, com TRY e EXCEPT para tratamento de exceções. Utiliza a biblioteca `requests` para comunicação HTTPS e o módulo `os` (built-in) para interação com o sistema operacional.
 
 ---
 
-**📂 Foco da API:** 
+## 📂 Foco da API
 
-**- Trabalhar com APIs reais (Google)** 
-
-**- Praticar Python com bibliotecas como Requests** 
-
-**- Implementar tratamento de erros e boas práticas** 
-
-**- Organizar um projeto com estrutura limpa e documentação clara** 
+- Trabalhar com APIs reais (Google)
+- Praticar Python com bibliotecas como Requests
+- Implementar tratamento de erros e boas práticas
+- Organizar um projeto com estrutura limpa e documentação clara
 
 ---
 
-**💻 Como usar:**
-```
-1. Clone este repositório: git clone https://github.com/rafaelmaia-dev/api-google
-```
+## 📁 Estrutura do projeto
 
 ```
-2. pip install -r requirements.txt
+api-google/
+├── src/
+│   ├── __init__.py
+│   └── main.py              # Script principal
+├── tests/
+│   └── test_main.py         # Testes automatizados
+├── .github/workflows/       # CI com GitHub Actions
+├── requirements.txt
+└── README.md
 ```
 
-```
-3. Execute o script: python src/main.py
+---
+
+## ⚙️ Pré-requisitos
+
+- Python 3.11 ou superior
+
+---
+
+## 💻 Como usar
+
+**1. Clone o repositório:**
+
+```bash
+git clone https://github.com/rafaelmaia-dev/api-google
+cd api-google
 ```
 
-```
-SAÍDA ESPERADA:
+**2. Crie e ative o ambiente virtual (recomendado):**
 
+```bash
+python -m venv .venv
+.venv\Scripts\activate       # Windows
+# source .venv/bin/activate  # Linux/Mac
+```
+
+**3. Instale as dependências e execute:**
+
+```bash
+pip install -r requirements.txt
+python src/main.py
+```
+
+**Saída esperada:**
+
+```
 Sucesso! Status: 200
 Conteúdo (primeiros 100 chars): <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="pt-BR"><head><meta cont
 Página salva em files/page.html
 ```
 
-**🛠️ Teste automatizado:**
+---
 
-```
-1. Para rodar todos os testes:
+## 🛠️ Teste automatizado
 
+**Rodar todos os testes:**
+
+```bash
 pytest
 ```
 
-```
-2. Ou para rodar o teste principal:
+**Ou apenas o teste principal:**
 
+```bash
 pytest tests/test_main.py
 ```
 
-```
-SAÍDA ESPERADA:
+**Saída esperada:**
 
+```
 ================= test session starts =================
 collected 1 item
 
 tests/test_main.py .                                [100%]
 
-================= 1 passed in 0.10s ==================
+================= 1 passed in 0.10s =================
 ```
 
+---
 
-**🛠 Tecnologias:**
+## 🛠 Tecnologias
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 </p>
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
