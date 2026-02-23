@@ -1,13 +1,25 @@
+# Bytecode Python
 __pycache__/
 *.py[cod]
 *$py.class
 
+# Ambientes virtuais
 venv/
 .venv/
 env/
 ENV/
 
+# Variáveis de ambiente (secrets)
 .env
 .env.*
 
+# Saída do projeto
 files/*.html
+
+# Logs
+*.log
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
