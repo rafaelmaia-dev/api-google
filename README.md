@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/github/license/rafaelmaia-dev/api-google)
 [![Python CI](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml/badge.svg)](https://github.com/rafaelmaia-dev/api-google/actions/workflows/python.yml)
 
-> Este mini projeto consulta o Google usando o método GET do protocolo HTTP para acessar o status code da URL, com TRY e EXCEPT para tratamento de exceções. Utiliza a biblioteca `requests` para comunicação HTTPS e o módulo `os` (built-in) para interação com o sistema operacional.
+ **Este mini projeto consulta o Google usando o método GET do protocolo HTTP para acessar o status code da URL, com TRY e EXCEPT para tratamento de exceções. Utiliza a biblioteca `requests` para comunicação HTTPS e o módulo `os` (built-in) para interação com o sistema operacional.**
 
 ---
 
