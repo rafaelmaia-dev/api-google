@@ -1,5 +1,6 @@
 name: Python CI
 
+# Executa testes e lint em push/PR na main
 on:
   push:
     branches: ["main"]
