@@ -4,41 +4,29 @@ Thank you for your interest in contributing!
 
 ---
 
-## 🚀 Quick Setup & Contribution Flow
+## Quick Setup & Contribution Flow
 
 Run the following commands:
 
 ```bash
-# 1️⃣ Clone the repository
+
 git clone <repository-url>
 cd <repository-folder>
 
-# 2️⃣ Create a virtual environment
-python -m venv venv
+python -m venv venv # Criando um ambiente virtual
 
-# 3️⃣ Activate the virtual environment
-# Windows
-venv\Scripts\activate
-# Linux/Mac
+venv\Scripts\activate # Ativando o ambiente
+
 source venv/bin/activate
 
-# 4️⃣ Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt # Instalando as dependências
 
-# 5️⃣ Create a new branch
-git checkout -b feature/your-feature-name
+git checkout -b feature/your-feature-name # Mudando de branch e criando outra
 
-# 6️⃣ Make your changes
-# (edit the code)
-
-# 7️⃣ Run tests
 pytest
 
-# 8️⃣ Add changes
-git add .
+git add . # Adicionando todos os arquivos
 
-# 9️⃣ Commit
-git commit -m "feat: describe your feature"
+git commit -m "feat: describe your feature" # Enviando a atualização
 
-# 🔟 Push to GitHub
-git push origin feature/your-feature-name
+git push origin feature/your-feature-name # Dando push para o repo remoto/original
